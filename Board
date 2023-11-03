@@ -1,0 +1,11 @@
+private String solvedPhrase;
+private String phrase;
+private int currentLetterValue;
+
+public static void Board() { /* Incomplete */ }
+public static String getSolvedPhrase() { /* Incomplete */ }
+public static int getLetterValue() { /* Incomplete */ }
+public static void setLetterValue() { /* Incomplete */ }
+public static bool solvePhrase() { /* Incomplete */ }
+public static void loadPhrase() { /* Incomplete */ }
+public static bool guessLetter() { /* Incomplete */ }
