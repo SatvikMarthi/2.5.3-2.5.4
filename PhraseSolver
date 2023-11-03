@@ -1,0 +1,7 @@
+Player player1 = new Player();
+Player player2 = new Player();
+Board game = new Board();
+private bool solved;
+
+public static PhraseSolver(String value) { /* Incomplete */}
+public static void play() { /* Incomplete */}
